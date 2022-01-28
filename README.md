@@ -12,10 +12,10 @@ Since we discovered that the month of a campaign's inception is linked to its su
 When it comes to her fundraising objective, we utilized descriptive statistics to assist Louise determine an attainable amount.
 ### Analysis of Outcomes Based on Launch Date
 We used the pivot table to filter by successful, failed, and canceled theatrical fundraiser based on the month. After creating the chart, we learned that campaigns sponsored during the summer months had a higher success rate than those sponsored throughout the rest of the year. The line graph may be found below:
-![Outcomes Based on Launched Date](https://github.com/damienfranco/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png "Outcomes Based on Launched Date")
+![Outcomes Based on Launched Date](https://github.com/damienfranco/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png "Outcomes Based on Launched Date")
 ### Analysis of Outcomes Based on Goals
 For the study on Outcomes Based on Goals, we discovered that when the goal amount is less than $1,000 and up to $14,999, success rates are better and the number of failed fundraisers is low. Please see the line graph below for further details:
-![Outcomes Based on Goal](https://github.com/damienfranco/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png "Outcomes Based on Goal")
+![Outcomes Based on Goal](https://github.com/damienfranco/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png "Outcomes Based on Goal")
 ### Challenges
 The first data was unreadable because they were timestamped in UNIX format. To fix this problem, the data was changed to utilize a normal date format so that it could be read and understood more easily. 
 Pivot tables can be a bit difficult to grasp at first, but they offer a lot of functionality. They're not always straightforward to use, though. Pivot tables are sometimes difficult to understand since you have so many options. The process of creating and formatting pivot table columns and rows may be daunting for new users and it took several attempts with settings and options to find the right adjustments for our data.
